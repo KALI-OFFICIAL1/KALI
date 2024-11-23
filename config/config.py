@@ -142,7 +142,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Badhacker98/BADMUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/KALI-OFFICIAL1/KALI")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -207,7 +207,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/WZE.jpg",
+    "https://envs.sh/0dI.mp4",
 )
 
 UC_IMG_URL = getenv(
@@ -222,7 +222,7 @@ BOT_IMG_URL = getenv(
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/91533956c91d0fd7c9f20.jpg",
+    "https://envs.sh/BZ8.mp4",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -237,7 +237,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/4dd9e2c231eaf7c290404.jpg",
+    "https://envs.sh/Kqv.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
