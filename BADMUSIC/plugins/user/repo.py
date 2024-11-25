@@ -9,7 +9,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 async def start(client: Client, message: Message):
     await message.reply_video(
         video=f"https://envs.sh/zeZ.mp4",
-        caption=f"❤️ ʜᴇʏ {message.from_user.mention} [☆ ʀᴇᴘᴏ 💗](https://github.com/Badhacker98/BADMUSIC/fork)",
+        caption=f"❤️ ʜᴇʏ {message.from_user.mention} [☆ ʀᴇᴘᴏ 💗](https://envs.sh/zeZ.mp4)",
         reply_markup=InlineKeyboardMarkup(
             [
                [
